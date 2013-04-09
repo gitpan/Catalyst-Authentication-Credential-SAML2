@@ -1,0 +1,8 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+dist.ini
+lib/Catalyst/Authentication/Credential/SAML2.pm
+lib/CatalystX/Controller/Authentication/SAML2.pm
